@@ -1,0 +1,15 @@
+.message-list .message {
+  list-style: none;
+  padding: 0;
+}
+
+.message-list .message li {
+  text-align: left;
+  padding: 10px 20px;
+  border-bottom: 1px solid black;
+}
+
+.message-list .message li .subject {
+  font-size: 20px;
+  margin: 4px 0;
+}
